@@ -1,0 +1,11 @@
+
+>
+Oppgave B/B.py,8\1\81519eb068e896ae4cb22f9b693d8ea2573edb3d
+>
+Oppgave C/C.py,3\d\3d4889cd339501312231aa9d3cb8ba01eeb95222
+>
+Oppgave D/D.py,c\3\c35bf7af092e673720046f1add70eafeb0fb3238
+?
+Oppgave D/D2.py,8\4\84247f200b0898b18365124f5ff5e8984cb678d2
+>
+Oppgave A/A.py,7\8\7852865d09052127590752163939d7108f9932df
